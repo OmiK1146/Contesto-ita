@@ -1,0 +1,11 @@
+# Ignora i file utente di RStudio
+.Rproj.user/
+
+# Ignora dati temporanei di R
+.Rhistory
+.RData
+
+# Ignora i file di dati scaricati (MOLTO IMPORTANTE)
+*.xlsx
+*.xls
+*.csv
